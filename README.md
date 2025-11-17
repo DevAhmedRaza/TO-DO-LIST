@@ -1,4 +1,4 @@
-This is a clean, minimal, and fully functional To-Do List application built using HTML, CSS, and vanilla JavaScript. It allows users to easily track their tasks with the ability to add new items, mark them as complete, and delete them.
+This is a clean, minimal, and fully functional To-Do List application built using HTML, CSS, and  JavaScript. It allows users to easily track their tasks with the ability to add new items, mark them as complete, and delete them.
 
 ✨ Features
 1. Add Tasks: Quickly add new tasks via the input field.
